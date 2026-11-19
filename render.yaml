@@ -1,0 +1,13 @@
+services:
+  - type: worker
+    name: telegram-gacha-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: TELEGRAM_TOKEN
+        sync: false
+      - key: SPAWN_EVERY
+        value: "20"
+      - key: SPAWN_TIMEOUT
+        value: "180"
