@@ -1254,6 +1254,13 @@ async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await lose_spawn(context, chat.id, "trans")
 
 
+async def vinculo_acentuado(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Captura si escriben /vínculo con acento. Telegram no permite registrar
+    un comando con acento (CommandHandler lo rechaza y el bot se cae al arrancar),
+    así que se atiende como texto con este handler aparte."""
+    await do_vinculo(update, context)
+
+
 def main():
     if not TOKEN:
         raise SystemExit("Falta TELEGRAM_TOKEN. Copia .env.example a .env y pon el token de BotFather.")
@@ -1263,7 +1270,7 @@ def main():
 
     for cmd, fn in [
         ("start", start), ("ayuda", ayuda), ("help", ayuda),
-        ("vinculo", vinculo), ("vínculo", vinculo),
+        ("vinculo", vinculo),
         ("lazos", lazos), ("Lazos", lazos),
         ("tributo", tributo), ("Tributo", tributo),
         ("liberar", liberar), ("Liberar", liberar),
@@ -1277,6 +1284,8 @@ def main():
         ("invocar", invocar), ("Invocar", invocar),
     ]:
         app.add_handler(CommandHandler(cmd, fn))
+    # /vínculo con acento: no se puede registrar como comando, se atiende por regex.
+    app.add_handler(MessageHandler(filters.Regex(r"(?i)^/v[íi]nculo\b"), vinculo_acentuado))
     app.add_handler(CallbackQueryHandler(on_callback))
     app.add_handler(InlineQueryHandler(on_inline))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, on_message))
