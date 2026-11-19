@@ -32,7 +32,7 @@ Aquí el bot corre en un servidor, no en tu teléfono. Tu teléfono solo sirve p
 3. New Project → Deploy from GitHub repo → elige el repo del bot.
 4. En Variables, añade:
    - `TELEGRAM_TOKEN` = tu token de BotFather
-   - `SPAWN_EVERY` = `20`
+   - `SPAWN_EVERY` = `100`
 5. Railway detecta el `Procfile` y arranca solo con `python bot.py`.
 
 ### Con Render (alternativa)
@@ -41,7 +41,7 @@ Aquí el bot corre en un servidor, no en tu teléfono. Tu teléfono solo sirve p
 2. Entra a render.com → New → Background Worker → elige el repo.
 3. Build Command: `pip install -r requirements.txt`
 4. Start Command: `python bot.py`
-5. En Environment Variables añade `TELEGRAM_TOKEN` con tu token.
+5. En Environment Variables añade `TELEGRAM_TOKEN` con tu token y `SPAWN_EVERY` = `100`.
 
 El archivo `render.yaml` de esta carpeta ya trae esa configuración lista.
 

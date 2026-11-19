@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "name": "Chisato Nishikigi",
+    "rarity": 5,
+    "series": "Lycoris Recoil",
+    "type": "Anime"
+  },
+  {
+    "id": 2,
+    "name": "Takina Inoue",
+    "rarity": 4,
+    "series": "Lycoris Recoil",
+    "type": "Anime"
+  },
+  {
+    "id": 3,
+    "name": "Kurumi",
+    "rarity": 1,
+    "series": "Lycoris Recoil",
+    "type": "Anime"
+  },
+  {
+    "id": 4,
+    "name": "Rem",
+    "rarity": 5,
+    "series": "Re:Zero",
+    "type": "Anime"
+  },
+  {
+    "id": 5,
+    "name": "Emilia",
+    "rarity": 5,
+    "series": "Re:Zero",
+    "type": "Anime"
+  },
+  {
+    "id": 6,
+    "name": "Ram",
+    "rarity": 2,
+    "series": "Re:Zero",
+    "type": "Anime"
+  },
+  {
+    "id": 7,
+    "name": "Beatrice",
+    "rarity": 1,
+    "series": "Re:Zero",
+    "type": "Anime"
+  },
+  {
+    "id": 8,
+    "name": "Asuna Yuuki",
+    "rarity": 5,
+    "series": "Sword Art Online",
+    "type": "Anime"
+  },
+  {
+    "id": 9,
+    "name": "Sinon",
+    "rarity": 4,
+    "series": "Sword Art Online",
+    "type": "Anime"
+  },
+  {
+    "id": 10,
+    "name": "Alice Zuberg",
+    "rarity": 2,
+    "series": "Sword Art Online",
+    "type": "Anime"
+  },
+  {
+    "id": 11,
+    "name": "Leafa",
+    "rarity": 1,
+    "series": "Sword Art Online",
+    "type": "Anime"
+  },
+  {
+    "id": 12,
+    "name": "Nezuko Kamado",
+    "rarity": 5,
+    "series": "Demon Slayer",
+    "type": "Anime"
+  },
+  {
+    "id": 13,
+    "name": "Mitsuri Kanroji",
+    "rarity": 4,
+    "series": "Demon Slayer",
+    "type": "Anime"
+  },
+  {
+    "id": 14,
+    "name": "Shinobu Kocho",
+    "rarity": 3,
+    "series": "Demon Slayer",
+    "type": "Anime"
+  },
+  {
+    "id": 15,
+    "name": "Kanao Tsuyuri",
+    "rarity": 1,
+    "series": "Demon Slayer",
+    "type": "Anime"
+  },
+  {
+    "id": 16,
+    "name": "Nobara Kugisaki",
+    "rarity": 4,
+    "series": "Jujutsu Kaisen",
+    "type": "Anime"
+  },
+  {
+    "id": 17,
+    "name": "Maki Zenin",
+    "rarity": 3,
+    "series": "Jujutsu Kaisen",
+    "type": "Anime"
+  },
+  {
+    "id": 18,
+    "name": "Mei Mei",
+    "rarity": 1,
+    "series": "Jujutsu Kaisen",
+    "type": "Anime"
+  },
+  {
+    "id": 19,
+    "name": "Makima",
+    "rarity": 5,
+    "series": "Chainsaw Man",
+    "type": "Anime"
+  },
+  {
+    "id": 20,
+    "name": "Power",
+    "rarity": 4,
+    "series": "Chainsaw Man",
+    "type": "Anime"
+  },
+  {
+    "id": 21,
+    "name": "Reze",
+    "rarity": 3,
+    "series": "Chainsaw Man",
+    "type": "Anime"
+  },
+  {
+    "id": 22,
+    "name": "Himeno",
+    "rarity": 1,
+    "series": "Chainsaw Man",
+    "type": "Anime"
+  },
+  {
+    "id": 23,
+    "name": "Yor Forger",
+    "rarity": 5,
+    "series": "Spy x Family",
+    "type": "Anime"
+  },
+  {
+    "id": 24,
+    "name": "Anya Forger",
+    "rarity": 4,
+    "series": "Spy x Family",
+    "type": "Anime"
+  },
+  {
+    "id": 25,
+    "name": "Fiona Frost",
+    "rarity": 1,
+    "series": "Spy x Family",
+    "type": "Anime"
+  },
+  {
+    "id": 26,
+    "name": "Frieren",
+    "rarity": 5,
+    "series": "Frieren",
+    "type": "Anime"
+  },
+  {
+    "id": 27,
+    "name": "Fern",
+    "rarity": 3,
+    "series": "Frieren",
+    "type": "Anime"
+  },
+  {
+    "id": 28,
+    "name": "Mikasa Ackerman",
+    "rarity": 4,
+    "series": "Attack on Titan",
+    "type": "Anime"
+  },
+  {
+    "id": 29,
+    "name": "Annie Leonhart",
+    "rarity": 3,
+    "series": "Attack on Titan",
+    "type": "Anime"
+  },
+  {
+    "id": 30,
+    "name": "Sasha Braus",
+    "rarity": 1,
+    "series": "Attack on Titan",
+    "type": "Anime"
+  },
+  {
+    "id": 31,
+    "name": "Historia Reiss",
+    "rarity": 1,
+    "series": "Attack on Titan",
+    "type": "Anime"
+  },
+  {
+    "id": 32,
+    "name": "Hinata Hyuga",
+    "rarity": 4,
+    "series": "Naruto",
+    "type": "Anime"
+  },
+  {
+    "id": 33,
+    "name": "Sakura Haruno",
+    "rarity": 3,
+    "series": "Naruto",
+    "type": "Anime"
+  },
+  {
+    "id": 34,
+    "name": "Tsunade",
+    "rarity": 2,
+    "series": "Naruto",
+    "type": "Anime"
+  },
+  {
+    "id": 35,
+    "name": "Ino Yamanaka",
+    "rarity": 1,
+    "series": "Naruto",
+    "type": "Anime"
+  },
+  {
+    "id": 36,
+    "name": "Nami",
+    "rarity": 4,
+    "series": "One Piece",
+    "type": "Anime"
+  },
+  {
+    "id": 37,
+    "name": "Nico Robin",
+    "rarity": 5,
+    "series": "One Piece",
+    "type": "Anime"
+  },
+  {
+    "id": 38,
+    "name": "Boa Hancock",
+    "rarity": 3,
+    "series": "One Piece",
+    "type": "Anime"
+  },
+  {
+    "id": 39,
+    "name": "Vivi Nefertari",
+    "rarity": 3,
+    "series": "One Piece",
+    "type": "Anime"
+  },
+  {
+    "id": 40,
+    "name": "Ochaco Uraraka",
+    "rarity": 4,
+    "series": "My Hero Academia",
+    "type": "Anime"
+  },
+  {
+    "id": 41,
+    "name": "Momo Yaoyorozu",
+    "rarity": 3,
+    "series": "My Hero Academia",
+    "type": "Anime"
+  },
+  {
+    "id": 42,
+    "name": "Tsuyu Asui",
+    "rarity": 1,
+    "series": "My Hero Academia",
+    "type": "Anime"
+  },
+  {
+    "id": 43,
+    "name": "Mina Ashido",
+    "rarity": 1,
+    "series": "My Hero Academia",
+    "type": "Anime"
+  },
+  {
+    "id": 44,
+    "name": "Cynthia",
+    "rarity": 4,
+    "series": "Pokémon",
+    "type": "Anime"
+  },
+  {
+    "id": 45,
+    "name": "Misty",
+    "rarity": 1,
+    "series": "Pokémon",
+    "type": "Anime"
+  },
+  {
+    "id": 46,
+    "name": "Serena",
+    "rarity": 1,
+    "series": "Pokémon",
+    "type": "Anime"
+  },
+  {
+    "id": 47,
+    "name": "Dawn",
+    "rarity": 1,
+    "series": "Pokémon",
+    "type": "Anime"
+  },
+  {
+    "id": 48,
+    "name": "Usagi Tsukino",
+    "rarity": 4,
+    "series": "Sailor Moon",
+    "type": "Anime"
+  },
+  {
+    "id": 49,
+    "name": "Rei Hino",
+    "rarity": 1,
+    "series": "Sailor Moon",
+    "type": "Anime"
+  },
+  {
+    "id": 50,
+    "name": "Madoka Kaname",
+    "rarity": 5,
+    "series": "Puella Magi Madoka Magica",
+    "type": "Anime"
+  },
+  {
+    "id": 51,
+    "name": "Homura Akemi",
+    "rarity": 4,
+    "series": "Puella Magi Madoka Magica",
+    "type": "Anime"
+  },
+  {
+    "id": 52,
+    "name": "Raiden Shogun",
+    "rarity": 5,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 53,
+    "name": "Hu Tao",
+    "rarity": 5,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 54,
+    "name": "Nahida",
+    "rarity": 5,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 55,
+    "name": "Furina",
+    "rarity": 4,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 56,
+    "name": "Yae Miko",
+    "rarity": 3,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 57,
+    "name": "Kamisato Ayaka",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 58,
+    "name": "Ganyu",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 59,
+    "name": "Keqing",
+    "rarity": 1,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 60,
+    "name": "Mona",
+    "rarity": 1,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 61,
+    "name": "Nilou",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 62,
+    "name": "Sangonomiya Kokomi",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 63,
+    "name": "Yelan",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 64,
+    "name": "Kafka",
+    "rarity": 5,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 65,
+    "name": "Firefly",
+    "rarity": 4,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 66,
+    "name": "Seele",
+    "rarity": 3,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 67,
+    "name": "Silver Wolf",
+    "rarity": 2,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 68,
+    "name": "Bronya",
+    "rarity": 1,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 69,
+    "name": "Himeko",
+    "rarity": 3,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 70,
+    "name": "Robin",
+    "rarity": 2,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 71,
+    "name": "Black Swan",
+    "rarity": 2,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 72,
+    "name": "Princess Zelda",
+    "rarity": 5,
+    "series": "The Legend of Zelda",
+    "type": "Videojuego"
+  },
+  {
+    "id": 73,
+    "name": "Impa",
+    "rarity": 1,
+    "series": "The Legend of Zelda",
+    "type": "Videojuego"
+  },
+  {
+    "id": 74,
+    "name": "Tifa Lockhart",
+    "rarity": 5,
+    "series": "Final Fantasy VII",
+    "type": "Videojuego"
+  },
+  {
+    "id": 75,
+    "name": "Aerith Gainsborough",
+    "rarity": 4,
+    "series": "Final Fantasy VII",
+    "type": "Videojuego"
+  },
+  {
+    "id": 76,
+    "name": "Yuffie Kisaragi",
+    "rarity": 3,
+    "series": "Final Fantasy VII",
+    "type": "Videojuego"
+  },
+  {
+    "id": 77,
+    "name": "2B",
+    "rarity": 5,
+    "series": "NieR: Automata",
+    "type": "Videojuego"
+  },
+  {
+    "id": 78,
+    "name": "A2",
+    "rarity": 4,
+    "series": "NieR: Automata",
+    "type": "Videojuego"
+  },
+  {
+    "id": 79,
+    "name": "Ann Takamaki",
+    "rarity": 3,
+    "series": "Persona 5",
+    "type": "Videojuego"
+  },
+  {
+    "id": 80,
+    "name": "Makoto Niijima",
+    "rarity": 2,
+    "series": "Persona 5",
+    "type": "Videojuego"
+  },
+  {
+    "id": 81,
+    "name": "Futaba Sakura",
+    "rarity": 1,
+    "series": "Persona 5",
+    "type": "Videojuego"
+  },
+  {
+    "id": 82,
+    "name": "Haru Okumura",
+    "rarity": 1,
+    "series": "Persona 5",
+    "type": "Videojuego"
+  },
+  {
+    "id": 83,
+    "name": "Ranni the Witch",
+    "rarity": 4,
+    "series": "Elden Ring",
+    "type": "Videojuego"
+  },
+  {
+    "id": 84,
+    "name": "Melina",
+    "rarity": 3,
+    "series": "Elden Ring",
+    "type": "Videojuego"
+  },
+  {
+    "id": 85,
+    "name": "Jill Valentine",
+    "rarity": 2,
+    "series": "Resident Evil",
+    "type": "Videojuego"
+  },
+  {
+    "id": 86,
+    "name": "Claire Redfield",
+    "rarity": 2,
+    "series": "Resident Evil",
+    "type": "Videojuego"
+  },
+  {
+    "id": 87,
+    "name": "Ada Wong",
+    "rarity": 2,
+    "series": "Resident Evil",
+    "type": "Videojuego"
+  },
+  {
+    "id": 88,
+    "name": "Chun-Li",
+    "rarity": 2,
+    "series": "Street Fighter",
+    "type": "Videojuego"
+  },
+  {
+    "id": 89,
+    "name": "Cammy",
+    "rarity": 1,
+    "series": "Street Fighter",
+    "type": "Videojuego"
+  },
+  {
+    "id": 90,
+    "name": "Juri Han",
+    "rarity": 1,
+    "series": "Street Fighter",
+    "type": "Videojuego"
+  },
+  {
+    "id": 91,
+    "name": "Ahri",
+    "rarity": 3,
+    "series": "League of Legends",
+    "type": "Videojuego"
+  },
+  {
+    "id": 92,
+    "name": "Jinx",
+    "rarity": 4,
+    "series": "League of Legends",
+    "type": "Videojuego"
+  },
+  {
+    "id": 93,
+    "name": "Lux",
+    "rarity": 1,
+    "series": "League of Legends",
+    "type": "Videojuego"
+  },
+  {
+    "id": 94,
+    "name": "Miss Fortune",
+    "rarity": 1,
+    "series": "League of Legends",
+    "type": "Videojuego"
+  },
+  {
+    "id": 95,
+    "name": "Mercy",
+    "rarity": 2,
+    "series": "Overwatch",
+    "type": "Videojuego"
+  },
+  {
+    "id": 96,
+    "name": "D.Va",
+    "rarity": 2,
+    "series": "Overwatch",
+    "type": "Videojuego"
+  },
+  {
+    "id": 97,
+    "name": "Tracer",
+    "rarity": 1,
+    "series": "Overwatch",
+    "type": "Videojuego"
+  },
+  {
+    "id": 98,
+    "name": "Kiana Kaslana",
+    "rarity": 5,
+    "series": "Honkai Impact 3rd",
+    "type": "Videojuego"
+  },
+  {
+    "id": 99,
+    "name": "Elysia",
+    "rarity": 2,
+    "series": "Honkai Impact 3rd",
+    "type": "Videojuego"
+  },
+  {
+    "id": 100,
+    "name": "Herta",
+    "rarity": 1,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 101,
+    "name": "Misaki Ayuzawa",
+    "rarity": 5,
+    "series": "Kaichou wa Maid-sama!",
+    "type": "Anime"
+  },
+  {
+    "id": 102,
+    "name": "Suzuna Ayuzawa",
+    "rarity": 3,
+    "series": "Kaichou wa Maid-sama!",
+    "type": "Anime"
+  },
+  {
+    "id": 103,
+    "name": "Hahari Hanazono",
+    "rarity": 4,
+    "series": "Kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo",
+    "type": "Anime"
+  },
+  {
+    "id": 104,
+    "name": "Hakari Hanazono",
+    "rarity": 4,
+    "series": "Kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo",
+    "type": "Anime"
+  },
+  {
+    "id": 105,
+    "name": "Karane Inda",
+    "rarity": 3,
+    "series": "Kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo",
+    "type": "Anime"
+  },
+  {
+    "id": 106,
+    "name": "Yuzuriha Amate",
+    "rarity": 4,
+    "series": "Kidou Senshi Gundam GQuuuuuuX",
+    "type": "Anime"
+  },
+  {
+    "id": 107,
+    "name": "Nyaan",
+    "rarity": 4,
+    "series": "Kidou Senshi Gundam GQuuuuuuX",
+    "type": "Anime"
+  },
+  {
+    "id": 108,
+    "name": "Kanami Ibuki",
+    "rarity": 3,
+    "series": "Kubikiri Cycle",
+    "type": "Anime"
+  },
+  {
+    "id": 109,
+    "name": "Ran-Mao",
+    "rarity": 3,
+    "series": "Kuroshitsuji",
+    "type": "Anime"
+  },
+  {
+    "id": 110,
+    "name": "Ai Miyashita",
+    "rarity": 4,
+    "series": "Love Live! Nijigasaki",
+    "type": "Anime"
+  },
+  {
+    "id": 111,
+    "name": "Setsuna Yuki",
+    "rarity": 3,
+    "series": "Love Live! Nijigasaki",
+    "type": "Anime"
+  },
+  {
+    "id": 112,
+    "name": "Chika Takami",
+    "rarity": 4,
+    "series": "Love Live! Sunshine",
+    "type": "Anime"
+  },
+  {
+    "id": 113,
+    "name": "Riko Sakurauchi",
+    "rarity": 3,
+    "series": "Love Live! Sunshine",
+    "type": "Anime"
+  },
+  {
+    "id": 114,
+    "name": "You Watanabe",
+    "rarity": 3,
+    "series": "Love Live! Sunshine",
+    "type": "Anime"
+  },
+  {
+    "id": 115,
+    "name": "Leah Kazuno",
+    "rarity": 2,
+    "series": "Love Live! Sunshine",
+    "type": "Anime"
+  },
+  {
+    "id": 116,
+    "name": "Narumi Yui",
+    "rarity": 2,
+    "series": "Lucky Star",
+    "type": "Anime"
+  },
+  {
+    "id": 117,
+    "name": "Konata Izumi",
+    "rarity": 4,
+    "series": "Lucky Star",
+    "type": "Anime"
+  },
+  {
+    "id": 118,
+    "name": "Kagami Hiiragi",
+    "rarity": 3,
+    "series": "Lucky Star",
+    "type": "Anime"
+  },
+  {
+    "id": 119,
+    "name": "Azusa Nakajou",
+    "rarity": 3,
+    "series": "Mahouka Koukou no Yuutousei",
+    "type": "Anime"
+  },
+  {
+    "id": 120,
+    "name": "Miyuki Shiba",
+    "rarity": 5,
+    "series": "Mahouka Koukou no Rettousei",
+    "type": "Anime"
+  },
+  {
+    "id": 121,
+    "name": "Temari",
+    "rarity": 3,
+    "series": "Naruto",
+    "type": "Anime"
+  },
+  {
+    "id": 122,
+    "name": "Kushina Uzumaki",
+    "rarity": 3,
+    "series": "Naruto",
+    "type": "Anime"
+  },
+  {
+    "id": 123,
+    "name": "Mei Terumi",
+    "rarity": 2,
+    "series": "Naruto",
+    "type": "Anime"
+  },
+  {
+    "id": 124,
+    "name": "Fischl",
+    "rarity": 3,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 125,
+    "name": "Barbara",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 126,
+    "name": "Jean",
+    "rarity": 4,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 127,
+    "name": "Klee",
+    "rarity": 5,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 128,
+    "name": "Qiqi",
+    "rarity": 3,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 129,
+    "name": "Eula",
+    "rarity": 4,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 130,
+    "name": "Shenhe",
+    "rarity": 4,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 131,
+    "name": "Xinyan",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 132,
+    "name": "Beidou",
+    "rarity": 3,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 133,
+    "name": "Ningguang",
+    "rarity": 3,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 134,
+    "name": "Rosaria",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 135,
+    "name": "Diona",
+    "rarity": 1,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 136,
+    "name": "Sayu",
+    "rarity": 1,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 137,
+    "name": "Yanfei",
+    "rarity": 2,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 138,
+    "name": "Yun Jin",
+    "rarity": 1,
+    "series": "Genshin Impact",
+    "type": "Videojuego"
+  },
+  {
+    "id": 139,
+    "name": "Acheron",
+    "rarity": 5,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 140,
+    "name": "Sparkle",
+    "rarity": 4,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 141,
+    "name": "Topaz",
+    "rarity": 4,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 142,
+    "name": "Jade",
+    "rarity": 4,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 143,
+    "name": "March 7th",
+    "rarity": 3,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 144,
+    "name": "Clara",
+    "rarity": 3,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 145,
+    "name": "Natasha",
+    "rarity": 2,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 146,
+    "name": "Pela",
+    "rarity": 1,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 147,
+    "name": "Tingyun",
+    "rarity": 3,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 148,
+    "name": "Ruan Mei",
+    "rarity": 5,
+    "series": "Honkai: Star Rail",
+    "type": "Videojuego"
+  },
+  {
+    "id": 149,
+    "name": "Erza Scarlet",
+    "rarity": 5,
+    "series": "Fairy Tail",
+    "type": "Anime"
+  },
+  {
+    "id": 150,
+    "name": "Lucy Heartfilia",
+    "rarity": 4,
+    "series": "Fairy Tail",
+    "type": "Anime"
+  },
+  {
+    "id": 151,
+    "name": "Juvia Lockser",
+    "rarity": 3,
+    "series": "Fairy Tail",
+    "type": "Anime"
+  },
+  {
+    "id": 152,
+    "name": "Wendy Marvell",
+    "rarity": 2,
+    "series": "Fairy Tail",
+    "type": "Anime"
+  },
+  {
+    "id": 153,
+    "name": "Mirajane Strauss",
+    "rarity": 4,
+    "series": "Fairy Tail",
+    "type": "Anime"
+  },
+  {
+    "id": 154,
+    "name": "Kagura Mikazuchi",
+    "rarity": 2,
+    "series": "Fairy Tail",
+    "type": "Anime"
+  },
+  {
+    "id": 155,
+    "name": "Miku Nakano",
+    "rarity": 5,
+    "series": "The Quintessential Quintuplets",
+    "type": "Anime"
+  },
+  {
+    "id": 156,
+    "name": "Nino Nakano",
+    "rarity": 4,
+    "series": "The Quintessential Quintuplets",
+    "type": "Anime"
+  },
+  {
+    "id": 157,
+    "name": "Ichika Nakano",
+    "rarity": 3,
+    "series": "The Quintessential Quintuplets",
+    "type": "Anime"
+  },
+  {
+    "id": 158,
+    "name": "Yotsuba Nakano",
+    "rarity": 3,
+    "series": "The Quintessential Quintuplets",
+    "type": "Anime"
+  },
+  {
+    "id": 159,
+    "name": "Itsuki Nakano",
+    "rarity": 2,
+    "series": "The Quintessential Quintuplets",
+    "type": "Anime"
+  },
+  {
+    "id": 160,
+    "name": "Zero Two",
+    "rarity": 5,
+    "series": "Darling in the Franxx",
+    "type": "Anime"
+  },
+  {
+    "id": 161,
+    "name": "Ichigo",
+    "rarity": 3,
+    "series": "Darling in the Franxx",
+    "type": "Anime"
+  },
+  {
+    "id": 162,
+    "name": "Marin Kitagawa",
+    "rarity": 5,
+    "series": "My Dress-Up Darling",
+    "type": "Anime"
+  },
+  {
+    "id": 163,
+    "name": "Shizuku Kuroe",
+    "rarity": 2,
+    "series": "My Dress-Up Darling",
+    "type": "Anime"
+  },
+  {
+    "id": 164,
+    "name": "Kaguya Shinomiya",
+    "rarity": 5,
+    "series": "Kaguya-sama: Love is War",
+    "type": "Anime"
+  },
+  {
+    "id": 165,
+    "name": "Chika Fujiwara",
+    "rarity": 4,
+    "series": "Kaguya-sama: Love is War",
+    "type": "Anime"
+  },
+  {
+    "id": 166,
+    "name": "Ai Hayasaka",
+    "rarity": 3,
+    "series": "Kaguya-sama: Love is War",
+    "type": "Anime"
+  },
+  {
+    "id": 167,
+    "name": "Miko Iino",
+    "rarity": 2,
+    "series": "Kaguya-sama: Love is War",
+    "type": "Anime"
+  },
+  {
+    "id": 168,
+    "name": "Mai Sakurajima",
+    "rarity": 5,
+    "series": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "type": "Anime"
+  },
+  {
+    "id": 169,
+    "name": "Kaede Azusagawa",
+    "rarity": 3,
+    "series": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "type": "Anime"
+  },
+  {
+    "id": 170,
+    "name": "Tomoe Koga",
+    "rarity": 2,
+    "series": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "type": "Anime"
+  },
+  {
+    "id": 171,
+    "name": "Nodoka Toyohama",
+    "rarity": 2,
+    "series": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "type": "Anime"
+  },
+  {
+    "id": 172,
+    "name": "Violet Evergarden",
+    "rarity": 5,
+    "series": "Violet Evergarden",
+    "type": "Anime"
+  },
+  {
+    "id": 173,
+    "name": "Cattleya Baudelaire",
+    "rarity": 2,
+    "series": "Violet Evergarden",
+    "type": "Anime"
+  },
+  {
+    "id": 174,
+    "name": "Holo",
+    "rarity": 5,
+    "series": "Spice and Wolf",
+    "type": "Anime"
+  },
+  {
+    "id": 175,
+    "name": "Rias Gremory",
+    "rarity": 5,
+    "series": "High School DxD",
+    "type": "Anime"
+  },
+  {
+    "id": 176,
+    "name": "Akeno Himejima",
+    "rarity": 4,
+    "series": "High School DxD",
+    "type": "Anime"
+  },
+  {
+    "id": 177,
+    "name": "Koneko Toujou",
+    "rarity": 3,
+    "series": "High School DxD",
+    "type": "Anime"
+  },
+  {
+    "id": 178,
+    "name": "Asia Argento",
+    "rarity": 2,
+    "series": "High School DxD",
+    "type": "Anime"
+  },
+  {
+    "id": 179,
+    "name": "Megumin",
+    "rarity": 5,
+    "series": "KonoSuba",
+    "type": "Anime"
+  },
+  {
+    "id": 180,
+    "name": "Aqua",
+    "rarity": 4,
+    "series": "KonoSuba",
+    "type": "Anime"
+  },
+  {
+    "id": 181,
+    "name": "Darkness",
+    "rarity": 3,
+    "series": "KonoSuba",
+    "type": "Anime"
+  },
+  {
+    "id": 182,
+    "name": "Yunyun",
+    "rarity": 2,
+    "series": "KonoSuba",
+    "type": "Anime"
+  },
+  {
+    "id": 183,
+    "name": "Sagiri Izumi",
+    "rarity": 3,
+    "series": "Eromanga Sensei",
+    "type": "Anime"
+  },
+  {
+    "id": 184,
+    "name": "Elaina",
+    "rarity": 5,
+    "series": "Wandering Witch",
+    "type": "Anime"
+  },
+  {
+    "id": 185,
+    "name": "Fran",
+    "rarity": 2,
+    "series": "Wandering Witch",
+    "type": "Anime"
+  },
+  {
+    "id": 186,
+    "name": "Kuroneko",
+    "rarity": 3,
+    "series": "Oreimo",
+    "type": "Anime"
+  },
+  {
+    "id": 187,
+    "name": "Kirino Kousaka",
+    "rarity": 4,
+    "series": "Oreimo",
+    "type": "Anime"
+  },
+  {
+    "id": 188,
+    "name": "Taiga Aisaka",
+    "rarity": 4,
+    "series": "Toradora!",
+    "type": "Anime"
+  },
+  {
+    "id": 189,
+    "name": "Minori Kushieda",
+    "rarity": 2,
+    "series": "Toradora!",
+    "type": "Anime"
+  },
+  {
+    "id": 190,
+    "name": "Ami Kawashima",
+    "rarity": 3,
+    "series": "Toradora!",
+    "type": "Anime"
+  },
+  {
+    "id": 191,
+    "name": "Hitori Gotoh",
+    "rarity": 5,
+    "series": "Bocchi the Rock!",
+    "type": "Anime"
+  },
+  {
+    "id": 192,
+    "name": "Nijika Ijichi",
+    "rarity": 3,
+    "series": "Bocchi the Rock!",
+    "type": "Anime"
+  },
+  {
+    "id": 193,
+    "name": "Ryo Yamada",
+    "rarity": 3,
+    "series": "Bocchi the Rock!",
+    "type": "Anime"
+  },
+  {
+    "id": 194,
+    "name": "Rin Tohsaka",
+    "rarity": 4,
+    "series": "Fate/stay night",
+    "type": "Anime"
+  },
+  {
+    "id": 195,
+    "name": "Saber",
+    "rarity": 5,
+    "series": "Fate/stay night",
+    "type": "Anime"
+  },
+  {
+    "id": 196,
+    "name": "Sakura Matou",
+    "rarity": 3,
+    "series": "Fate/stay night",
+    "type": "Anime"
+  },
+  {
+    "id": 197,
+    "name": "Illyasviel von Einzbern",
+    "rarity": 3,
+    "series": "Fate/stay night",
+    "type": "Anime"
+  },
+  {
+    "id": 198,
+    "name": "Shinobu Oshino",
+    "rarity": 4,
+    "series": "Monogatari",
+    "type": "Anime"
+  },
+  {
+    "id": 199,
+    "name": "Hitagi Senjougahara",
+    "rarity": 4,
+    "series": "Monogatari",
+    "type": "Anime"
+  },
+  {
+    "id": 200,
+    "name": "Tsubasa Hanekawa",
+    "rarity": 3,
+    "series": "Monogatari",
+    "type": "Anime"
+  }
+]

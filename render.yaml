@@ -8,6 +8,6 @@ services:
       - key: TELEGRAM_TOKEN
         sync: false
       - key: SPAWN_EVERY
-        value: "20"
+        value: "100"
       - key: SPAWN_TIMEOUT
         value: "180"
